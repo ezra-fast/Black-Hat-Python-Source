@@ -4,7 +4,7 @@ This repository contains the full annotated source code of the Black Hat Python 
 
 The repository can be navigated by chapter, according to the following legend:
 
-  - reverseShell: A basic callback/handler duo, made as an alternative to netcat.py (chapter 2)
+  - reverseShell: A basic callback/handler duo, made as an alternative to netcat.py (Chapter 2)
 
   - Chapter 2: Basic Networking Tools
 
