@@ -41,7 +41,6 @@ session flow: client side
         - repeat
 '''
 '''
-
 session flow: server side:
         - receive prompt
         - send command
