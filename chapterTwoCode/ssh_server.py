@@ -1,7 +1,7 @@
 '''
 This is the server that corresponds to ssh_rcmd.py
 
-Commands typed in at the console of this program are executed on connected clients runnin ssh_rcmd.py
+Commands typed in at the console of this program are executed on connected clients running ssh_rcmd.py
 The output is then returned to this server and printed to the console.
 '''
 
